@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chunxiao (Elin)
 
-### CS Master Student @NUS | AI & Systems Researcher | LLM Infrastructure Engineer
+### CS Master Student @NUS | AI & Systems Researcher | LLM Engineer
 
 - 🔭 I'm currently working on **Researching Multi-Agent Systems and their practical implementation (landing) at an NUS Lab.**
 
