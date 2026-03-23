@@ -99,14 +99,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SvanurX&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=c084fc&amp;icon_color=f472b6&amp;text_color=6b7280&amp;rank_icon=github&amp;cache_seconds=1800" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvanurX&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=c084fc&amp;text_color=6b7280&amp;langs_count=8&amp;cache_seconds=1800" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=SvanurX&amp;hide_border=true&amp;background=ffffff&amp;ring=c084fc&amp;fire=f472b6&amp;currStreakLabel=a78bfa&amp;sideLabels=6b7280&amp;dates=9ca3af&amp;currStreakNum=c084fc&amp;sideNums=a78bfa" />
 </div>
 
