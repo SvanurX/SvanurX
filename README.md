@@ -3,6 +3,18 @@
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" />
+  &nbsp;&nbsp;
+  <img src="assets/avatar_circle.png" width="130" />
+  &nbsp;&nbsp;
+  <img src="assets/dog_circle.png" width="130" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&random=false&width=640&lines=✨+CS+Master+%40+NUS;🤖+Building+Multi-Agent+Systems;🌸+LLM+Engineer+%26+AI+Researcher;💡+Grounding+LLMs+in+Reality;🍜+Always+hungry+for+new+ideas~" alt="Typing SVG" />
 </div>
 
