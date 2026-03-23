@@ -42,7 +42,7 @@
 
 ## About Me
 
-<img align="left" width="160" src="https://raw.githubusercontent.com/SvanurX/SvanurX/main/assets/statue.gif" />
+<img align="right" width="110" src="https://raw.githubusercontent.com/SvanurX/SvanurX/main/assets/statue.gif" />
 
 - 🔭 Researching **Multi-Agent Systems** and their practical implementation at an NUS Lab
 - 🌱 Diving into **Advanced LLM Agent patterns**, large-model scalability, and domain adaptation techniques
