@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90" />
   &nbsp;&nbsp;
-  <img src="assets/avatar_circle.png" width="130" />
+  <img src="https://raw.githubusercontent.com/SvanurX/SvanurX/main/assets/avatar_circle.png" width="130" />
   &nbsp;&nbsp;
-  <img src="assets/dog_circle.png" width="130" />
+  <img src="https://raw.githubusercontent.com/SvanurX/SvanurX/main/assets/dog_circle.png" width="130" />
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90" />
 </div>
 
 <br/>
@@ -93,18 +93,18 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SvanurX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvanurX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SvanurX&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&icon_color=c084fc&text_color=6b7280&ring_color=a78bfa" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvanurX&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=ffffff&title_color=c084fc&text_color=6b7280" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SvanurX&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SvanurX&hide_border=true&background=ffffff&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa&sideLabels=6b7280&dates=9ca3af&currStreakNum=c084fc&sideNums=a78bfa" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvanurX&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvanurX&bg_color=ffffff&color=c084fc&line=a78bfa&point=f472b6&area=true&area_color=f0abfc&hide_border=true" />
 </div>
 
 ---
