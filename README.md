@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,19&height=180&section=header&text=Chunxiao%20(Elin)%20✨&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Master%20%40%20NUS%20%7C%20AI%20%26%20Systems%20Researcher%20%7C%20LLM%20Engineer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=gradient&amp;customColorList=2,3,19&amp;height=180&amp;section=header&amp;text=Chunxiao%20(Elin)%20✨&amp;fontSize=46&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=CS%20Master%20%40%20NUS%20%7C%20AI%20%26%20Systems%20Researcher%20%7C%20LLM%20Engineer&amp;descAlignY=60&amp;descAlign=50" />
 </div>
 
 <div align="center">
@@ -15,25 +15,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&random=false&width=640&lines=✨+CS+Master+%40+NUS;🤖+Building+Multi-Agent+Systems;🌸+LLM+Engineer+%26+AI+Researcher;💡+Grounding+LLMs+in+Reality;🍜+Always+hungry+for+new+ideas~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&amp;weight=700&amp;size=22&amp;pause=1200&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=640&amp;lines=✨+CS+Master+%40+NUS;🤖+Building+Multi-Agent+Systems;🌸+LLM+Engineer+%26+AI+Researcher;💡+Grounding+LLMs+in+Reality;🍜+Always+hungry+for+new+ideas~" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/SvanurX">
-    <img src="https://img.shields.io/badge/GitHub-SvanurX-a78bfa?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-SvanurX-a78bfa?style=flat-square&amp;logo=github&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/elin-ren-51129a2a3">
-    <img src="https://img.shields.io/badge/LinkedIn-Elin%20Ren-60a5fa?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Elin%20Ren-60a5fa?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:svanur17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-svanur17%40gmail.com-f472b6?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-svanur17%40gmail.com-f472b6?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SvanurX&style=flat-square&color=c084fc&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=SvanurX&amp;style=flat-square&amp;color=c084fc&amp;label=Profile+Views" />
 </div>
 
 ---
@@ -99,13 +99,13 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SvanurX&hide_border=true&background=ffffff&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa&sideLabels=6b7280&dates=9ca3af&currStreakNum=c084fc&sideNums=a78bfa" />
+  <img src="https://streak-stats.demolab.com?user=SvanurX&amp;hide_border=true&amp;background=ffffff&amp;ring=c084fc&amp;fire=f472b6&amp;currStreakLabel=a78bfa&amp;sideLabels=6b7280&amp;dates=9ca3af&amp;currStreakNum=c084fc&amp;sideNums=a78bfa" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvanurX&bg_color=ffffff&color=c084fc&line=a78bfa&point=f472b6&area=true&area_color=f0abfc&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvanurX&amp;bg_color=ffffff&amp;color=c084fc&amp;line=a78bfa&amp;point=f472b6&amp;area=true&amp;area_color=f0abfc&amp;hide_border=true" />
 </div>
 
 ---
@@ -121,9 +121,9 @@
 ## 💬 Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,19&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,3,19&amp;height=100&amp;section=footer" />
 </div>
