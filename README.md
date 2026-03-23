@@ -1,26 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chunxiao%20(Elin)&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Master%20%40%20NUS%20%7C%20AI%20%26%20Systems%20Researcher%20%7C%20LLM%20Engineer&descAlignY=56&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,19&height=180&section=header&text=Chunxiao%20(Elin)%20✨&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Master%20%40%20NUS%20%7C%20AI%20%26%20Systems%20Researcher%20%7C%20LLM%20Engineer&descAlignY=60&descAlign=50" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6AD3F7&center=true&vCenter=true&random=false&width=620&lines=Multi-Agent+Systems+Researcher+%40+NUS+Lab;LLM+Engineer+%26+AI+Infrastructure+Builder;Grounding+LLMs+in+Reality%2C+One+System+at+a+Time;Open+to+Collaborate+on+Agentic+Workflows+%F0%9F%A4%9D" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&random=false&width=640&lines=✨+CS+Master+%40+NUS;🤖+Building+Multi-Agent+Systems;🌸+LLM+Engineer+%26+AI+Researcher;💡+Grounding+LLMs+in+Reality;🍜+Always+hungry+for+new+ideas~" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/SvanurX">
-    <img src="https://img.shields.io/badge/GitHub-SvanurX-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-SvanurX-a78bfa?style=flat-square&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/elin-ren-51129a2a3">
-    <img src="https://img.shields.io/badge/LinkedIn-Elin%20Ren-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Elin%20Ren-60a5fa?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:svanur17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-svanur17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-svanur17%40gmail.com-f472b6?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SvanurX&style=for-the-badge&color=0e75b6&label=Profile+Views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SvanurX&style=flat-square&color=c084fc&label=Profile+Views" />
 </div>
 
 ---
@@ -96,19 +97,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/SvanurX/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SvanurX&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SvanurX/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SvanurX&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -128,5 +116,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,19&height=100&section=footer" />
 </div>
