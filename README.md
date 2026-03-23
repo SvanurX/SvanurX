@@ -93,11 +93,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SvanurX&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&icon_color=c084fc&text_color=6b7280&ring_color=a78bfa" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvanurX&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=ffffff&title_color=c084fc&text_color=6b7280" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=SvanurX&hide_border=true&background=ffffff&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa&sideLabels=6b7280&dates=9ca3af&currStreakNum=c084fc&sideNums=a78bfa" />
 </div>
 
@@ -112,11 +107,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SvanurX/SvanurX/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SvanurX/SvanurX/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SvanurX/SvanurX/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SvanurX/SvanurX/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -124,9 +115,9 @@
 ## 💬 Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,19&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,19&height=100&section=footer" />
 </div>
