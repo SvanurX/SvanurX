@@ -80,15 +80,51 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SvanurX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=SvanurX&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SvanurX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvanurX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SvanurX&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvanurX&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/SvanurX/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SvanurX&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SvanurX/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SvanurX&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SvanurX/SvanurX/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SvanurX/SvanurX/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SvanurX/SvanurX/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 💬 Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <div align="center">
