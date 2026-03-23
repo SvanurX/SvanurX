@@ -38,13 +38,19 @@
 
 ---
 
+---
+
 ## About Me
+
+<img align="left" width="160" src="https://raw.githubusercontent.com/SvanurX/SvanurX/main/assets/statue.gif" />
 
 - 🔭 Researching **Multi-Agent Systems** and their practical implementation at an NUS Lab
 - 🌱 Diving into **Advanced LLM Agent patterns**, large-model scalability, and domain adaptation techniques
 - 🤝 Open to collaborate on **open-source Agentic workflows**, AI infrastructure tools, or cross-disciplinary AI applications
 - 💬 Ask me about **grounding LLMs in reality**, Backend architecture, or my experiences building tech in the Nordics
 - ⚡ Fun fact: I'm a total foodie 🍜
+
+<br clear="left"/>
 
 ---
 
