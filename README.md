@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-SvanurX-a78bfa?style=flat-square&amp;logo=github&amp;logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/elin-ren-51129a2a3">
+  <a href="https://linkedin.com/in">
     <img src="https://img.shields.io/badge/LinkedIn-Elin%20Ren-60a5fa?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   &nbsp;
