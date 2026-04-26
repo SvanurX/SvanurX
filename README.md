@@ -44,11 +44,13 @@
 
 <img align="right" width="100" src="https://raw.githubusercontent.com/SvanurX/SvanurX/main/assets/statue.gif" />
 
-- 🔭 Researching **Multi-Agent Systems** and their practical implementation at an NUS Lab
-- 🌱 Diving into **Advanced LLM Agent patterns**, large-model scalability, and domain adaptation techniques
-- 🤝 Open to collaborate on **open-source Agentic workflows**, AI infrastructure tools, or cross-disciplinary AI applications
-- 💬 Ask me about **grounding LLMs in reality**, Backend architecture, or my experiences building tech in the Nordics
-- ⚡ Fun fact: I'm a total foodie 🍜
+🔭  Architecting **multi-agent systems** at NUS — orchestration, planning, and tool-use for autonomous research & decision pipelines
+🧠  Working on **LLM agent scaffolding**, large-model scalability, domain adaptation, and grounding agents through knowledge graphs and verifiable retrieval
+🛠️  Building **agentic infrastructure**: auto-research loops, domain-specific agents, and AI-native developer tooling
+🤝  Open to collaborate on open-source agentic workflows, AI infrastructure, or cross-disciplinary applications (cyber-risk, scientific research, knowledge engineering)
+💬  Ask me about grounding LLMs in reality, distributed backend architecture, or building tech in the Nordics
+⚡  Fun fact: foodie 🍜 
+
 
 <br clear="left"/>
 
