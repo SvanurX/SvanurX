@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Elin%20Ren-60a5fa?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:svanur17@gmail.com">
+  <a href="mailto:elin.chunxiao@gmail.com">
     <img src="https://img.shields.io/badge/Email-svanur17%40gmail.com-f472b6?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
   &nbsp;
