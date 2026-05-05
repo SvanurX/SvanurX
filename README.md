@@ -30,7 +30,7 @@
   </a>
   &nbsp;
   <a href="mailto:elin.chunxiao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-svanur17%40gmail.com-f472b6?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-elin.chunxiao%40gmail.com-f472b6?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SvanurX&amp;style=flat-square&amp;color=c084fc&amp;label=Profile+Views" />
